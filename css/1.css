@@ -17,6 +17,16 @@ h1{
 	/* height: auto; */
 }
 
+h2{
+	/* background: #00B7EA; */
+	/* color: #666666; */
+	/* background: grey; */
+	/* background-image: linear-gradient(white, black); */
+	font-size: 150%;
+	color: black;
+	/* font-variant: small-caps; */
+}
+
 hr{
 	border: 0.5px solid white;
 }
@@ -119,6 +129,10 @@ a.active {
 	margin-left: 0px;
 }
 
+#about_sec_title{
+	font-variant: small-caps;
+}
+
 #education{
 	font-family: Arial, serif;
 }
@@ -148,6 +162,38 @@ a.active {
 	align="left";
 }
 
+#porttitle{
+	/* font-family: Arial, serif; */
+	color: black;
+	text-align: center;
+	margin-left: 0px;
+}
+
+#projectsum{
+	text-align: center;
+	font-size: 150%;
+}
+
+.projecttitle{
+	font-family: Arial, serif;
+	color: blue;
+	text-align: center;
+	margin-left: 0px;
+}
+
+.projectcotent{
+	font-family: Arial, serif;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: justify;
+}
+
+.projectpic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* .header-img {
   width: 100%;
   height: 400px;
@@ -155,15 +201,7 @@ a.active {
   background-size: cover;
 } */
 
-h2{
-	/* background: #00B7EA; */
-	/* color: #666666; */
-	/* background: grey; */
-	/* background-image: linear-gradient(white, black); */
-	font-size: 150%;
-	color: black;
-	font-variant: small-caps;
-}
+
 
 body{
 	/* background: #B3B3B3; */
